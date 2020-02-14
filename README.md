@@ -7,6 +7,7 @@
 - Настройка флексбокс
 - Генератор JSS для теней
 - Настройка JSS (рамка, курсор, и пр.)
+- Шаблоны фона (https://leaverou.github.io/css3patterns/)
 
 Прототипы:
 https://cssgenerator.org/box-shadow-css-generator.html  
